@@ -13,12 +13,12 @@ npm install --save react-native-text-input-mask
 react-native link react-native-text-input-mask
 ```
 
-For RN 0.47 use 0.3.2 version – `npm install --save react-native-text-input-mask@0.3.2`
+For RN 0.47 use 0.3.2 version – `npm install --save @mypharma/react-native-text-input-mask@0.3.2`
 
 ## Usage
 
 ```javascript
-import TextInputMask from 'react-native-text-input-mask';
+import TextInputMask from '@mypharma/react-native-text-input-mask';
 ...
 <TextInputMask
   refInput={ref => { this.input = ref }}
