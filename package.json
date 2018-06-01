@@ -1,6 +1,6 @@
 {
   "name": "@mypharma/react-native-text-input-mask",
-  "version": "0.5.5",
+  "version": "0.5.6",
   "description": "Text input mask for React Native on iOS and Android.",
   "main": "index.js",
   "scripts": {
